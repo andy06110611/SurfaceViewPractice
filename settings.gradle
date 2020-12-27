@@ -1,0 +1,2 @@
+include ':app', 'opencv430', 'opencv3410'
+rootProject.name='SurfaceViewPractice'
